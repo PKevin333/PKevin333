@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/SEU-USUARIO-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ggmax.com.br">
-    <img src="https://img.shields.io/badge/ggmax.com.br-1a6b5e?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
   <a href="mailto:SEU-EMAIL-AQUI">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
@@ -164,4 +161,4 @@ SQL / outros  █░░░░░░░░░░░░░░░░░░░░░
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=120&section=footer"/>
 
-<p align="center"><i>© 2026 · Kevin Silva · São Luís, MA 🇧🇷 · Aberto a oportunidades 💚</i></p>
+<p align="center"><i>© 2026 · Kevin Silva · São Luís, MA 🇧🇷 · 💚</i></p>
