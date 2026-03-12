@@ -37,7 +37,7 @@
 - 📊 Análise e visualização de dados com Power BI, SQL e Excel avançado.
 
 
-> 💡 *“Morrer para vencer e arriscar a morte para vencer são coisas completamente diferentes.”.*
+> 💡 *“Se você não gosta do seu destino, não o aceite. Em vez disso, tenha a coragem de mudá-lo para que seja do jeito que você quer.”.*
 
 ---
 
