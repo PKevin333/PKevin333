@@ -152,7 +152,6 @@ SQL / outros  █░░░░░░░░░░░░░░░░░░░░░
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Silva-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
 [![Website](https://img.shields.io/badge/Website-ggmax.com.br-1a6b5e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ggmax.com.br)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
 [![GitHub](https://img.shields.io/badge/GitHub-PKevin333-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PKevin333)
 
 </div>
