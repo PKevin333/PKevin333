@@ -16,7 +16,7 @@ Administrador • Tecnologia • Dados • IA
 🏛️ Estagiário no **setor público**  
 🤖 Estudando **Inteligência Artificial e Dados**  
 💻 Aprendendo **TypeScript, React e Node.js**  
-📊 Usando **Power BI, SQL e Excel avançado**  
+📊 Usando **Power BI, SQL e Excel avançado**
 
 📍 São Luís — Maranhão 🇧🇷
 
@@ -24,12 +24,33 @@ Administrador • Tecnologia • Dados • IA
 
 # 🚀 Tech Stack
 
+### 💻 Desenvolvimento
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264DE4?logo=css3&logoColor=white)
+
+---
+
+### 📊 Dados & Análise
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+---
+
+### ⚙️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
@@ -56,7 +77,7 @@ Administrador • Tecnologia • Dados • IA
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PKevin333&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PKevin333&theme=tokyonight&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -64,13 +85,6 @@ Administrador • Tecnologia • Dados • IA
 # 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PKevin333&theme=tokyo-night"/>
-
----
-
-# 🧠 Badges automáticos
-
-![GitHub followers](https://img.shields.io/github/followers/PKevin333?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/PKevin333?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
@@ -92,14 +106,6 @@ Projeto acadêmico desenvolvido em TypeScript.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Silva-blue?logo=linkedin)](https://linkedin.com)
 
 [![Website](https://img.shields.io/badge/Website-ggmax.com.br-green)](https://ggmax.com.br)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
