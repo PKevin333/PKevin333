@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO-AQU">
+  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://ggmax.com.br">
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Administrador+apaixonado+por+tecnologia+🤖;Estagiário+no+setor+público+🏛️;Explorando+IA+e+Dados+📊;Desenvolvendo+com+TypeScript+%26+React+💻;UEMA+2026+🎓"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Administrador+apaixonado+por+tecnologia+🤖;Explorando+IA+e+Dados+📊;Desenvolvendo+com+TypeScript+%26+React+💻;Graduando+em+Administração+na+UEMA+🎓;Setor+Público+%2B+Tecnologia+%3D+Impacto+🏛️"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Graduando em **Administração** na UEMA — foco em gestão, dados e inovação pública
-- 🏛️ Estagiário no **setor público** — acredito que dados e tecnologia transformam instituições
+- 🏛️ Atuando no **setor público** com foco em dados e transparência institucional
 - 🤖 Explorando **Inteligência Artificial** aplicada à gestão e análise de dados
 - 💻 Desenvolvendo com **TypeScript, React** e **Node.js**
 - 📊 Usando **Power BI, SQL** e **Excel avançado** para transformar dados em decisões
@@ -75,7 +75,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PKevin333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PKevin333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKevin333&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
@@ -84,7 +84,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PKevin333&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
+  <img src="https://streak-stats.demolab.com?user=PKevin333&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
 ---
