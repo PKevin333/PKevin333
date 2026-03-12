@@ -30,14 +30,14 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Administração** na UEMA — foco em gestão, dados e inovação pública
-- 🏛️ Atuando no **setor público** com foco em dados e transparência institucional
-- 🤖 Explorando **Inteligência Artificial** aplicada à gestão e análise de dados
-- 💻 Desenvolvendo com **TypeScript, React** e **Node.js**
-- 📊 Usando **Power BI, SQL** e **Excel avançado** para transformar dados em decisões
-- 📍 Construindo coisas em **São Luís — Maranhão** 🇧🇷
+- 🎓 Graduando em **Administração** — foco em gestão, dados e inovação pública
+- 🏛️ Seção de Administração (SAD) – Núcleo de Logística (NULOG) - PRF
+- 🤖 Interesse em aplicações de Inteligência Artificial voltadas à gestão, automação de processos e análise de dados.
+- 💻 Construção de aplicações web utilizando TypeScript, React e Node.js.
+- 📊 Análise e visualização de dados com Power BI, SQL e Excel avançado.
 
-> 💡 *Acredito que a gestão e a tecnologia não são mundos separados. A maior transformação acontece onde as duas se encontram.*
+
+> 💡 *“Educação não transforma o mundo.Educação muda as pessoas. Pessoas transformam o mundo.”.*
 
 ---
 
@@ -151,8 +151,7 @@ SQL / outros  █░░░░░░░░░░░░░░░░░░░░░
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Silva-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
-[![Website](https://img.shields.io/badge/Website-ggmax.com.br-1a6b5e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ggmax.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-PKevin333-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PKevin333)
+[![Gmail](https://img.shields.io/badge/Gmail-kevinvqv%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinvqv@gmail.com)
 
 </div>
 
@@ -160,4 +159,4 @@ SQL / outros  █░░░░░░░░░░░░░░░░░░░░░
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=120&section=footer"/>
 
-<p align="center"><i>© 2026 · Kevin Silva · São Luís, MA 🇧🇷 · 💚</i></p>
+<p align="center"><i>© 2026 · Kevin Silva · São Luís, MA 🇧🇷 · Aberto a oportunidades 💚</i></p>
