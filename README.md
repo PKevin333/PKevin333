@@ -37,7 +37,7 @@
 - 📊 Análise e visualização de dados com Power BI, SQL e Excel avançado.
 
 
-> 💡 *“Educação não transforma o mundo.Educação muda as pessoas. Pessoas transformam o mundo.”.*
+> 💡 *“Morrer para vencer e arriscar a morte para vencer são coisas completamente diferentes.”.*
 
 ---
 
