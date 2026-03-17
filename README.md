@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:0d1117&height=200&section=header&text=Kevin%20Silva&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Administração%20·%20Tecnologia%20·%20Dados%20·%20IA&descSize=18&descAlignY=58&descColor=8b949e"/>
+<div align="center">
+  <img width="100%" src="./banner.svg" alt="Kevin Silva Lopes"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/PKevin333">
@@ -15,7 +17,7 @@
   <a href="https://linkedin.com/in/SEU-USUARIO-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
+  <a href="mailto:kevinvqv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -37,7 +39,7 @@
 - 📊 Análise e visualização de dados com Power BI, SQL e Excel avançado.
 
 
-> 💡 *“Se você não gosta do seu destino, não o aceite. Em vez disso, tenha a coragem de mudá-lo para que seja do jeito que você quer.”*
+> 💡 *"Se você não gosta do seu destino, não o aceite. Em vez disso, tenha a coragem de mudá-lo para que seja do jeito que você quer."*
 
 ---
 
